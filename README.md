@@ -5,6 +5,7 @@ GitHub → Telegram Developer Notifications
 A lightweight .NET web service that listens to GitHub webhook events and sends real-time notifications to a Telegram bot.
 
 ---
+<img src="1000035170.png" width="300"/>
 
 ## ✨ Features
 
